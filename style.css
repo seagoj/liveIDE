@@ -1,0 +1,24 @@
+/* 
+    Document   : style
+    Created on : Mar 13, 2012, 12:45:35 PM
+    Author     : jds
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#viewWindow {
+    float:left;
+    width: 650px;
+    border: 3px;
+    margin-right:20px;
+}
+#codeWindow {
+    width: 650px;
+    border-width: 1px;
+}
+
